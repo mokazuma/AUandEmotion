@@ -1,1 +1,1 @@
-# AUcogmodel
+# Cognitive model of facial action unit
