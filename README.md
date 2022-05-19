@@ -1,1 +1,1 @@
-# Cognitive model of facial action unit
+# Multi-dimensional action unit features and emotion recognition
