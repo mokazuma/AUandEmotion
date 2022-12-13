@@ -1,1 +1,1 @@
-# Intensity and speed features of action unit and emotion recognition
+# Intensity/Speed features of action unit and emotion recognition
