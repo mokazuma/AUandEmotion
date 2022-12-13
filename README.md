@@ -1,1 +1,1 @@
-# Multi-dimensional action unit features and emotion recognition
+# Intensity and speed features of action unit and emotion recognition
